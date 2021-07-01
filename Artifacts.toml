@@ -1,0 +1,9 @@
+[[PETSc]]
+arch = "x86_64"
+git-tree-sha1 = "1b4df1cc40742669789edcf430eb11997593189d"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[PETSc.download]]
+    sha256 = "b34e4969af08602d297a0c3cfcdf1b8e100061b9e55c84735782f50128464117"
+    url = "https://github.com/jkozdon/PETSc_jll.jl/releases/download/PETSc-v3.15.1+0/PETSc.v3.15.1.x86_64-apple-darwin-libgfortran5.tar.gz"
