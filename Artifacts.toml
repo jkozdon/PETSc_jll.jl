@@ -9,10 +9,10 @@ os = "freebsd"
     url = "https://github.com/jkozdon/PETSc_jll.jl/releases/download/PETSc-v3.15.2+0/PETSc.v3.15.2.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[PETSc]]
 arch = "x86_64"
-git-tree-sha1 = "5d1d33531255433e991887cd20224cff1e3ad6f2"
+git-tree-sha1 = "7aae6bec73a21b9a4b1dcdbf27f3f3eebe04a6a5"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[PETSc.download]]
-    sha256 = "17a03dfdf685426a34bc7b63d2ca4bf3eb71d22a224257f0d89609fe93274461"
+    sha256 = "63551299215e0d00a83bc6271168bba7f4c2f08cc71e045b069d57d9bf4df785"
     url = "https://github.com/jkozdon/PETSc_jll.jl/releases/download/PETSc-v3.15.2+1/PETSc.v3.15.2.x86_64-apple-darwin-libgfortran5.tar.gz"
